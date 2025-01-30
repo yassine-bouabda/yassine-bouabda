@@ -21,33 +21,36 @@ I’m always open to interesting conversations, collaborations, or work opportun
 
 ## 🔧 Projects
 
-### **Predictive Maintenance Framework for Facilities (2021) – 100+ Citations** 
-📄[Publication](https://www.mdpi.com/1424-8220/21/4/1044)  
+### **Predictive Maintenance Framework for Facilities (2021) – 110+ Citations** 
 I Developed a robust framework using a **decoder-encoder architecture** to predict maintenance needs in building facilities, significantly reducing downtime and improving system efficiency.
 
+📄[Publication](https://www.mdpi.com/1424-8220/21/4/1044)  
 **Key Technologies:** Python, TensorFlow, Keras, Auto-encoders 
 
 ---
 ### **RAG Project: Research Assistant to Chat with Your Arxiv Locally (2024)**  
 I built a simple RAG system to chat with arXiv papers locally, without any API costs. The purpose was to expirement with LangChain framwork.
+
 🔗[Repo](https://github.com/yassine-bouabda/local-rag-assistant)
 
 **Key Technologies:**  LangChain, Ollama, Streamit, 
 
 ---
-### **Document Engineering: Automatic PowerPoint Slide Enhancement (2022-2024) **  
+### **Document Engineering: Automatic PowerPoint Slide Enhancement (2022-2024)**  
 I lead the Data Science team to develop AI-drivensystem for automating and optimizing PowerPoint slide creation, boosting consultant productivity for 30K+ users. 
 Participated in a patent registration for an innovative AI-powered slide automation based on ML and graph theory.
+
 📄[Algorithm Patent](https://patents.google.com/patent/WO2023004509A1/en)
 
 **Key Technologies:** LLMs, ML, Graph Theory, Python, AWS,
 
 ---
 
-### **Automation of Maintenance Requests Using Text Classification (2019) -- 37+ citations**  
-📄 [Publication](https://www.mdpi.com/2075-5309/10/9/160) 
+### **Automation of Maintenance Requests Using Text Classification (2019) -- 37+ citations**
 
 I Built a framework to automate maintenance requests in complex facilities by implementing a **custom text classifier** and automating work orders assignement. The system improved processing time by **30%**.
+
+📄[Publication](https://www.mdpi.com/2075-5309/10/9/160)
 
 **Key Technologies:** NLP, Scikit-learn, Python, Text Analytics  
 
