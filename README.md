@@ -28,20 +28,6 @@ I’m always open to interesting conversations, collaborations, or work opportun
 ---
 
 ## 💼 Work Experience
-## Work Experience  
-
-### **ML Engineer | LooksGoodAI (Mar 2022 – Dec 2024, Paris – Remote)**  
-- Led the **Data Science team**,to implement dn AI-powered slide automation for **30K+ users**, increasing productivity by **20%**.  
-- Designed and implemented **ML systems**, conducted **POCs**, and provided **strategic insights** to the CTO.  
-- Ensured **code quality, performance, and security** through rigorous design reviews and best practices.  
-
-### **R&D Engineer & PhD Researcher | Bouygues Construction (Nov 2018 – Nov 2021, Lille)**  
-- Led AI research in **Facility Management**, focusing on **predictive maintenance**.  
-- Developed an LSTM-Autoencoder model for predictive maintenance and automated work order assignment, reducing maintenance response time by **40%**.  
-- Contributed to a **Digital Twin** R&D consortium alongside top engineering firms.  
-- Published **3 academic papers**, accumulating **150+ citations**.  
-
-
 ---
 
 ## 🔧 Projects
@@ -50,8 +36,6 @@ I’m always open to interesting conversations, collaborations, or work opportun
 📄[Publication](https://www.mdpi.com/1424-8220/21/4/1044)  
 I Developed a robust framework using a **decoder-encoder architecture** to predict maintenance needs in building facilities, significantly reducing downtime and improving system efficiency.
 
-![Vibration and Temperature sensors](data/img/sensors.png)  
-*Image of installed sensors to collect machines data*
 **Key Technologies:** Python, TensorFlow, Keras, Auto-encoders 
 
 ---
@@ -60,7 +44,6 @@ I built a simple RAG system to chat with arXiv papers locally, without any API c
 🔗[Repo](https://github.com/yassine-bouabda/local-rag-assistant)
 
 **Key Technologies:**  LangChain, Ollama, Streamit, 
-
 
 ---
 ### **Document Engineering: Automatic PowerPoint Slide Enhancement (2022-2024) **  
@@ -80,18 +63,3 @@ I Built a framework to automate maintenance requests in complex facilities by im
 **Key Technologies:** NLP, Scikit-learn, Python, Text Analytics  
 
 ---
-
-<!--
-**yassine-bouabda/yassine-bouabda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
