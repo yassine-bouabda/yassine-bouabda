@@ -28,14 +28,6 @@ I Developed a robust framework using a **decoder-encoder architecture** to predi
 **Key Technologies:** Python, TensorFlow, Keras, Auto-encoders 
 
 ---
-### **RAG Project: Research Assistant to Chat with Your Arxiv Locally (2024)**  
-I built a simple RAG system to chat with arXiv papers locally, without any API costs. The purpose was to expirement with LangChain framwork.
-
-🔗[Repo](https://github.com/yassine-bouabda/local-rag-assistant)
-
-**Key Technologies:**  LangChain, Ollama, Streamit, 
-
----
 ### **Document Engineering: Automatic PowerPoint Slide Enhancement (2022-2024)**  
 I lead the Data Science team to develop AI-drivensystem for automating and optimizing PowerPoint slide creation, boosting consultant productivity for 30K+ users. 
 Participated in a patent registration for an innovative AI-powered slide automation based on ML and graph theory.
@@ -43,6 +35,14 @@ Participated in a patent registration for an innovative AI-powered slide automat
 📄[Algorithm Patent](https://patents.google.com/patent/WO2023004509A1/en)
 
 **Key Technologies:** LLMs, ML, Graph Theory, Python, AWS,
+
+---
+### **RAG Project: Research Assistant to Chat with Your Arxiv Locally (2024)**  
+I built a simple RAG system to chat with arXiv papers locally, without any API costs. The purpose was to expirement with LangChain framwork.
+
+🔗[Repo](https://github.com/yassine-bouabda/local-rag-assistant)
+
+**Key Technologies:**  LangChain, Ollama, Streamit, 
 
 ---
 
