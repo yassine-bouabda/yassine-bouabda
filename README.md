@@ -21,7 +21,7 @@ I’m always open to interesting conversations, collaborations, or work opportun
 
 ## 🔧 Projects
 
-### **Predictive Maintenance Framework for Facilities (2021) – 110+ Citations** 
+### **Predictive Maintenance Framework for Facilities (2021) – 170+ Citations** 
 I Developed a robust framework using a **decoder-encoder architecture** to predict maintenance needs in building facilities, significantly reducing downtime and improving system efficiency.
 
 📄[Publication](https://www.mdpi.com/1424-8220/21/4/1044)  
