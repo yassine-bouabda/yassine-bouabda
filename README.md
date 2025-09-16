@@ -19,9 +19,24 @@ I’m always open to interesting conversations, collaborations, or work opportun
   Ecole Centrale De Lille and Ecole Hassaniya of Public Works *(2015-2018, Lille and Casablanca)*  
 
 
+---
+## 💼 Professional Experience
+
+- **AI ML Engineer**  
+  Autoplay AI *(Current)*  
+  • Developed a production-grade LLM pipeline to analyze session replay data, extracting deep product analytics and actionable insights for product managers  
+
+- **ML Engineer**  
+  LooksGoodAI *(Mar 2022 – Nov 2024, Paris, France)*  
+  • Led the Data Science team in developing an AI slide automation tool for **30K+ users**, leveraging ML and graph theory and Generative AI  
+
+- **Data Scientist**  
+  Bouygues Construction *(2018 – 2022, Lille, France)*  
+  • Conducted AI research in **Facility Management**, focusing on **predictive maintenance**  
+----- 
 ## 🔧 Projects
 
-### **Predictive Maintenance Framework for Facilities (2021) – 170+ Citations** 
+### **Predictive Maintenance Framework for Facilities (2021) – 200+ Citations** 
 I Developed a robust framework using a **decoder-encoder architecture** to predict maintenance needs in building facilities, significantly reducing downtime and improving system efficiency.
 
 📄[Publication](https://www.mdpi.com/1424-8220/21/4/1044)  
@@ -46,7 +61,7 @@ I built a simple RAG system to chat with arXiv papers locally, without any API c
 
 ---
 
-### **Automation of Maintenance Requests Using Text Classification (2019) -- 37+ citations**
+### **Automation of Maintenance Requests Using Text Classification (2019) -- 50+ citations**
 
 I Built a framework to automate maintenance requests in complex facilities by implementing a **custom text classifier** and automating work orders assignement. The system improved processing time by **30%**.
 
