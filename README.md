@@ -46,11 +46,11 @@ I'm always open to interesting conversations, collaborations or work opportuniti
 ## Projects
 
 ### **dt-evals: Agentic Evaluation Framework for AI Observability (2026)**
-I built and maintain Dynatrace's open-source evaluation toolkit for LLM apps and agents, **used by hundreds of Dynatrace customers** to evaluate their AI workloads in Dynatrace AI Observability (50+ GitHub stars, 30K+ npm downloads). It pulls live `gen_ai.*` OpenTelemetry spans from Dynatrace, masks sensitive data in memory, scores production interactions with an **LLM-as-judge**, and writes the results back as business events, so evals, traces, alerts and dashboards all live in one place. It ships as a CLI, a TypeScript library, deployment runners and a Python ingest library.
+I built and maintain Dynatrace's open-source evaluation toolkit for LLM apps and agents, **used by hundreds of Dynatrace customers** to evaluate their AI workloads in Dynatrace AI Observability (50+ GitHub stars, 30K+ npm downloads). It evaluates live production traces with a highly customizable set of checks: **LLM-judge** and deterministic code evals, **agentic evals** (tool calls, routing, full multi-turn sessions), custom evaluators, drift detection and CI quality gates. Results are written back to Dynatrace, so evals, traces, alerts and dashboards all live in one place. It ships as a CLI, a TypeScript library, deployment runners and a Python ingest library.
 
 [Repo](https://github.com/dynatrace-oss/dt-evals) · [npm](https://www.npmjs.com/package/@dynatrace-oss/dt-evals)
 
-**Key Technologies:** TypeScript, Node.js, LLM-as-judge, OpenTelemetry, Dynatrace, OpenAI / Anthropic / Gemini / Bedrock
+**Key Technologies:** TypeScript, Node.js, LLM-as-judge, Agentic evals, OpenTelemetry, Dynatrace, OpenAI / Anthropic / Gemini / Bedrock
 
 ---
 ### **SRE Multi-Agent for Dynatrace (2025)**
