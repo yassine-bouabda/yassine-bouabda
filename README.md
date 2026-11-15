@@ -62,9 +62,6 @@ An LLM orchestrator that delegates incident investigations to specialist agents 
 ---
 ### **Document Engineering: Automatic PowerPoint Slide Enhancement (2022–2024)**
 I led the Data Science team building an AI system that automates and optimizes PowerPoint slide creation, boosting productivity for 30K+ consultants.
-Co-inventor on a patent for AI-powered slide automation based on ML and graph theory.
-
-[Patent WO2023004509A1](https://patents.google.com/patent/WO2023004509A1/en)
 
 **Key Technologies:** LLMs, ML, Graph Theory, Python, AWS
 
