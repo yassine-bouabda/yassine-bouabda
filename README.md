@@ -17,9 +17,9 @@ I'm always open to interesting conversations, collaborations or work opportuniti
 
 - **Senior AI Engineer – Data Scientist**  
   Dynatrace R&D *(Jan 2026 – present, Linz, Austria)*
+  - Built and maintain [**dt-evals**](https://github.com/dynatrace-oss/dt-evals), Dynatrace's open-source agentic evaluation framework, used by hundreds of Dynatrace customers to evaluate their AI workloads in Dynatrace AI Observability
   - Built **AI Session Summaries** for Real User Monitoring on top of Dynatrace Assistant, a scalable LLM pipeline (GA June 2026)
   - Designed a hybrid **ML + deterministic + LLM** algorithm that generates synthetic monitors from real-user journeys
-  - Built and maintain [**dt-evals**](https://github.com/dynatrace-oss/dt-evals), Dynatrace's open-source agentic evaluation framework, used by hundreds of Dynatrace customers to evaluate their AI workloads in Dynatrace AI Observability
 
 - **Founding AI/ML Engineer**  
   Autoplay AI *(Mar 2025 – Dec 2025, Paris, France)*
