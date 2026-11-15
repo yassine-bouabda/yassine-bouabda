@@ -2,7 +2,7 @@
 
 ## About Me
 Senior AI Engineer and Data Scientist with **8 years of experience** across **Machine Learning**, **Software Engineering** and **Research**.\
-I've built this skill set in academia, corporate engineering and AI start-ups, and today I work at **Dynatrace R&D** (Linz, Austria) building GenAI products for observability.
+I've built this skill set in academia, corporate engineering and AI start-ups, and today I work at **Dynatrace R&D** building GenAI products for observability.
 
 Currently working on **agentic AI evaluation** and **LLM-powered Real User Monitoring** at Dynatrace. My work account is [@yassine-dt](https://github.com/yassine-dt).
 
