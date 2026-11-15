@@ -52,6 +52,14 @@ I built and maintain Dynatrace's open-source evaluation toolkit for LLM apps and
 **Key Technologies:** TypeScript, Node.js, LLM-as-judge, OpenTelemetry, Dynatrace, OpenAI / Anthropic / Gemini / Bedrock
 
 ---
+### **SRE Multi-Agent for Dynatrace (2025)**
+An LLM orchestrator that delegates incident investigations to specialist agents (problem finder, vulnerability scanner, root cause analyst, mitigation planner). Each agent queries Dynatrace through the MCP server and returns structured outputs that the orchestrator combines into one action plan.
+
+[Repo](https://github.com/yassine-bouabda/sre-multi-agent-dynatrace)
+
+**Key Technologies:** Pydantic AI, MCP, Multi-agent orchestration, OpenAI / Anthropic, Dynatrace
+
+---
 ### **Document Engineering: Automatic PowerPoint Slide Enhancement (2022–2024)**
 I led the Data Science team building an AI system that automates and optimizes PowerPoint slide creation, boosting productivity for 30K+ consultants.
 Co-inventor on a patent for AI-powered slide automation based on ML and graph theory.
