@@ -28,6 +28,7 @@ I'm always open to interesting conversations, collaborations or work opportuniti
 - **ML Engineer**  
   LooksGoodAI *(Mar 2022 – Nov 2024, Paris, France)*
   - Led the Data Science team building an AI slide-automation tool for **30K+ users**, using ML, graph theory and Generative AI
+  - Contributed to the [patent](https://patents.google.com/patent/WO2023004509A1/en)ed slide-formatting system
 
 - **Data Scientist & PhD Researcher**  
   Bouygues Construction *(2018 – 2021, Lille, France)*
