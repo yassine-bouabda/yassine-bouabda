@@ -1,26 +1,25 @@
 # Senior AI Engineer – Data Scientist, PhD
 
-## 🧑‍💻 About Me
+## About Me
 Senior AI Engineer and Data Scientist with **8 years of experience** across **Machine Learning**, **Software Engineering** and **Research**.\
 I've built this skill set in academia, corporate engineering and AI start-ups, and today I work at **Dynatrace R&D** (Linz, Austria) building GenAI products for observability.
 
-🔭 Currently working on: **agentic AI evaluation** and **LLM-powered Real User Monitoring** at Dynatrace\
-🛠️ Work account: [@yassine-dt](https://github.com/yassine-dt)
+Currently working on **agentic AI evaluation** and **LLM-powered Real User Monitoring** at Dynatrace. My work account is [@yassine-dt](https://github.com/yassine-dt).
 
-### 📩 Let's connect
+### Let's connect
 Reach me on [LinkedIn](https://www.linkedin.com/in/yassine-bouabdallaoui/).
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=pUIF8ZwAAAAJ&hl=en) or read my latest thoughts on [Medium](https://medium.com/@bouabdallaoui.yassine).
 
 I'm always open to interesting conversations, collaborations or work opportunities, so feel free to get in touch!
 
 ---
-## 💼 Professional Experience
+## Professional Experience
 
 - **Senior AI Engineer – Data Scientist**  
   Dynatrace R&D *(Jan 2026 – present, Linz, Austria)*
   - Built **AI Session Summaries** for Real User Monitoring on top of Dynatrace Assistant, a scalable LLM pipeline (GA June 2026)
   - Designed a hybrid **ML + deterministic + LLM** algorithm that generates synthetic monitors from real-user journeys
-  - Built and maintain [**dt-evals**](https://github.com/dynatrace-oss/dt-evals), Dynatrace's open-source agentic evaluation framework
+  - Built and maintain [**dt-evals**](https://github.com/dynatrace-oss/dt-evals), Dynatrace's open-source agentic evaluation framework, used by hundreds of Dynatrace customers to evaluate their AI workloads in Dynatrace AI Observability
 
 - **Founding AI/ML Engineer**  
   Autoplay AI *(Mar 2025 – Dec 2025, Paris, France)*
@@ -35,7 +34,7 @@ I'm always open to interesting conversations, collaborations or work opportuniti
   - Led AI research in **Facility Management**, focusing on **predictive maintenance**
 
 ---
-## 🎓 Education
+## Education
 - **PhD in Machine Learning**  
   Ecole Centrale de Lille *(2018 – 2021, Lille, France)*
 
@@ -43,12 +42,12 @@ I'm always open to interesting conversations, collaborations or work opportuniti
   Ecole Centrale de Lille & Ecole Hassania des Travaux Publics *(2015 – 2018, Lille & Casablanca)*
 
 ---
-## 🔧 Projects
+## Projects
 
-### **dt-evals: Agentic Evaluation Framework for AI Observability (2026)** ⭐ 50+ stars · 30K+ npm downloads
-I built and maintain Dynatrace's open-source evaluation toolkit for LLM apps and agents. It pulls live `gen_ai.*` OpenTelemetry spans from Dynatrace, masks sensitive data in memory, scores production interactions with an **LLM-as-judge**, and writes the results back as business events, so evals, traces, alerts and dashboards all live in one place. It ships as a CLI, a TypeScript library, deployment runners and a Python ingest library.
+### **dt-evals: Agentic Evaluation Framework for AI Observability (2026)**
+I built and maintain Dynatrace's open-source evaluation toolkit for LLM apps and agents, **used by hundreds of Dynatrace customers** to evaluate their AI workloads in Dynatrace AI Observability (50+ GitHub stars, 30K+ npm downloads). It pulls live `gen_ai.*` OpenTelemetry spans from Dynatrace, masks sensitive data in memory, scores production interactions with an **LLM-as-judge**, and writes the results back as business events, so evals, traces, alerts and dashboards all live in one place. It ships as a CLI, a TypeScript library, deployment runners and a Python ingest library.
 
-🔗 [Repo](https://github.com/dynatrace-oss/dt-evals) · 📦 [npm](https://www.npmjs.com/package/@dynatrace-oss/dt-evals)
+[Repo](https://github.com/dynatrace-oss/dt-evals) · [npm](https://www.npmjs.com/package/@dynatrace-oss/dt-evals)
 
 **Key Technologies:** TypeScript, Node.js, LLM-as-judge, OpenTelemetry, Dynatrace, OpenAI / Anthropic / Gemini / Bedrock
 
@@ -57,7 +56,7 @@ I built and maintain Dynatrace's open-source evaluation toolkit for LLM apps and
 I led the Data Science team building an AI system that automates and optimizes PowerPoint slide creation, boosting productivity for 30K+ consultants.
 Co-inventor on a patent for AI-powered slide automation based on ML and graph theory.
 
-📄 [Patent WO2023004509A1](https://patents.google.com/patent/WO2023004509A1/en)
+[Patent WO2023004509A1](https://patents.google.com/patent/WO2023004509A1/en)
 
 **Key Technologies:** LLMs, ML, Graph Theory, Python, AWS
 
@@ -65,7 +64,7 @@ Co-inventor on a patent for AI-powered slide automation based on ML and graph th
 ### **Predictive Maintenance Framework for Facilities (2021): 200+ Citations**
 I developed an **LSTM-autoencoder** framework that predicts maintenance needs in building facilities, reducing downtime and improving system efficiency.
 
-📄 [Publication](https://www.mdpi.com/1424-8220/21/4/1044)
+[Publication](https://www.mdpi.com/1424-8220/21/4/1044)
 
 **Key Technologies:** Python, TensorFlow, Keras, Autoencoders
 
@@ -73,7 +72,7 @@ I developed an **LSTM-autoencoder** framework that predicts maintenance needs in
 ### **Automation of Maintenance Requests Using Text Classification (2019): 50+ Citations**
 I built a framework that automates maintenance requests in complex facilities with a **custom text classifier** and automatic work-order assignment. It cut processing time by **30%**.
 
-📄 [Publication](https://www.mdpi.com/2075-5309/10/9/160)
+[Publication](https://www.mdpi.com/2075-5309/10/9/160)
 
 **Key Technologies:** NLP, Scikit-learn, Python, Text Analytics
 
@@ -81,6 +80,6 @@ I built a framework that automates maintenance requests in complex facilities wi
 ### **RAG Project: Chat with arXiv Papers Locally (2024)**
 A simple RAG system to chat with arXiv papers locally, with no API costs, built to experiment with the LangChain framework.
 
-🔗 [Repo](https://github.com/yassine-bouabda/local-rag-assistant)
+[Repo](https://github.com/yassine-bouabda/local-rag-assistant)
 
 **Key Technologies:** LangChain, Ollama, Streamlit
