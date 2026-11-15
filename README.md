@@ -16,30 +16,30 @@ I'm always open to interesting conversations, collaborations or work opportuniti
 ---
 ## 💼 Professional Experience
 
-- **Senior AI Engineer – Data Scientist**
+- **Senior AI Engineer – Data Scientist**  
   Dynatrace R&D *(Jan 2026 – present, Linz, Austria)*
-  • Built **AI Session Summaries** for Real User Monitoring on top of Dynatrace Assistant, a scalable LLM pipeline (GA June 2026)
-  • Designed a hybrid **ML + deterministic + LLM** algorithm that generates synthetic monitors from real-user journeys
-  • Built and maintain [**dt-evals**](https://github.com/dynatrace-oss/dt-evals), Dynatrace's open-source agentic evaluation framework
+  - Built **AI Session Summaries** for Real User Monitoring on top of Dynatrace Assistant, a scalable LLM pipeline (GA June 2026)
+  - Designed a hybrid **ML + deterministic + LLM** algorithm that generates synthetic monitors from real-user journeys
+  - Built and maintain [**dt-evals**](https://github.com/dynatrace-oss/dt-evals), Dynatrace's open-source agentic evaluation framework
 
-- **Founding AI/ML Engineer**
+- **Founding AI/ML Engineer**  
   Autoplay AI *(Mar 2025 – Dec 2025, Paris, France)*
-  • Built a production-grade LLM pipeline that analyzes session replay data and gives product managers deep analytics and actionable insights
+  - Built a production-grade LLM pipeline that analyzes session replay data and gives product managers deep analytics and actionable insights
 
-- **ML Engineer**
+- **ML Engineer**  
   LooksGoodAI *(Mar 2022 – Nov 2024, Paris, France)*
-  • Led the Data Science team building an AI slide-automation tool for **30K+ users**, using ML, graph theory and Generative AI
+  - Led the Data Science team building an AI slide-automation tool for **30K+ users**, using ML, graph theory and Generative AI
 
-- **Data Scientist & PhD Researcher**
+- **Data Scientist & PhD Researcher**  
   Bouygues Construction *(2018 – 2021, Lille, France)*
-  • Led AI research in **Facility Management**, focusing on **predictive maintenance**
+  - Led AI research in **Facility Management**, focusing on **predictive maintenance**
 
 ---
 ## 🎓 Education
-- **PhD in Machine Learning**
+- **PhD in Machine Learning**  
   Ecole Centrale de Lille *(2018 – 2021, Lille, France)*
 
-- **MSc in Engineering (Double Degree)**
+- **MSc in Engineering (Double Degree)**  
   Ecole Centrale de Lille & Ecole Hassania des Travaux Publics *(2015 – 2018, Lille & Casablanca)*
 
 ---
